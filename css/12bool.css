@@ -1,17 +1,16 @@
 /* debug */
-.debug .container {
+/* .debug .container {
     height: 100%;
-    min-height: 100px;
-    border: 1px solid blue;
+    min-height: 200px;
+    border: 1px solid black;
 }
 
 .debug [class*= "col-" ] {
     height: 100%;
-    min-height: 100px;
-    background-color: lightcoral;
-    border: 1px solid pink;
-}
-/* /debug */
+    min-height: 200px;
+    background-color: pink;
+    border: 1px solid black;
+} */
 
 /* reset */
 * {
